@@ -1,2 +1,2 @@
 # ByfronBypass
-Roblox Byfron Executor
+Roblox Byfron Executor no emulator required.
